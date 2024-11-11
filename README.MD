@@ -22,8 +22,8 @@ Este projeto faz parte da nova versão da API do Urban.Grocers, um aplicativo de
 - **Jira**: Para relatar quaisquer bugs encontrados durante o teste.
 - **Google Sheets**: Para organizar o checklist de testes.
 - **apiDoc**: Para estudar a documentação da API e entender as especificações.
-
-**Obs:** É possível acessar a documentação da API via apiDoc através do seguinte link: <https://cnt-18604a3c-2c5c-430b-8521-fbbf91ccdaae.containerhub.tripleten-services.com/docs/>
+  
+**Obs:** Para acessar a documentação da API, clique aqui: [apiDoc](<https://cnt-18604a3c-2c5c-430b-8521-fbbf91ccdaae.containerhub.tripleten-services.com/docs/>)
 
 ---
 
