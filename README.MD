@@ -41,7 +41,9 @@ Este projeto faz parte da nova versão da API do Urban.Grocers, um aplicativo de
 
 - Validei a funcionalidade de kits e serviços de entrega, confirmando que o sistema se comportava conforme esperado para a maioria dos casos.
 - Relatei bugs específicos relacionados a casos-limite, como falhas em listas de produtos que excedem o limite de 30 itens por exemplo.
-
+- Validei 2 endpoints, com 65 testes executados, sendo 26 aprovados e 39 reprovados.
+- **Total de bugs relatados:** 39
+  
 ---
 
 ### Aprendizados
