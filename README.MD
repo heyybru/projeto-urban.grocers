@@ -58,9 +58,9 @@ Este projeto permitiu-me desenvolver e fortalecer as seguintes habilidades:
 - **Relato de bugs detalhado no Jira**.
 - **Planejamento de testes baseado em documentação técnica**.
 
-<img src="images/Image (1).png">
-<img src="images/Image (2).png">
-<img src="images/Image.png">
+<img src="imagens/imagem (1).png">
+<img src="imagens/Imagem (2).png">
+<img src="imagens/Imagem.png">
 
 ---
 
