@@ -6,6 +6,8 @@ Este projeto faz parte da nova versão da API do Urban.Grocers, um aplicativo de
 
 **Contexto**: A Urban.Grocers lançou novos endpoints para funcionalidades de kits de produtos e serviços de entrega. A tarefa incluia a criação de testes, relatar bugs e validar a funcionalidade da API usando o Postman e documentar quaisquer problemas no Jira.
 
+**Obs (EN-PT):** This project is in portuguese / Esse projeto está em português.
+
 ---
 
 ### Objetivos
@@ -16,7 +18,7 @@ Este projeto faz parte da nova versão da API do Urban.Grocers, um aplicativo de
 
 ---
 
-### Ferramentas Utilizadas
+### Ferramentas e Tecnologias Utilizadas
 
 - **Postman**: Para enviar requisições e validar as respostas da API.
 - **Jira**: Para relatar quaisquer bugs encontrados durante o teste.
